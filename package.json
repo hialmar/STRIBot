@@ -1,0 +1,11 @@
+{
+  "name": "stri_bot",
+  "version": "1.0.0",
+  "description": "The STRI Bot",
+  "main": "bot.js",
+  "author": "Patrice Torguet (torguet@gmail.com)",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^3.2.1"
+  }
+}
